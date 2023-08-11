@@ -19,7 +19,7 @@ window.cookieconsent.initialise({
     "message": "In accordance with the EU GDPR law this message is being displayed. - ",
     "dismiss": "I Agree",
     "link": "CasjaysDev Policy",
-    "href": "https://casjay.net/privacy"
+    "href": "https://casjay.pro/privacy"
   }
 })});
 </script>
